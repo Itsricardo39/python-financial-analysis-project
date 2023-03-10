@@ -1,1 +1,1 @@
-# pyhton-financial-analysis-project
+# Pyhton Financial Analysis Project
