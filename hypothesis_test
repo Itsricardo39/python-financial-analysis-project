@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 
 # import microsoft.csv, and add a new feature - logreturn
 ms = pd.DataFrame.from_csv('../data/microsoft.csv')
+ms.head()
 ms['logReturn'] = np.log(ms['Close'].shift(-1)) - np.log(ms['Close'])
 
 # Log return goes up and down during the period
