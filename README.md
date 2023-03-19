@@ -1,4 +1,4 @@
-# Pyhton Financial Analysis Project
+# Python Financial Analysis Project
 
 ## Installation 
 run `python install -r requirements.txt`
